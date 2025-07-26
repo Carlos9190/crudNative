@@ -1,0 +1,18 @@
+{
+  "clients": [
+    {
+      "id": "7d75",
+      "name": "Carlos",
+      "phone": "3184998487",
+      "email": "core@core.com",
+      "company": "UIS"
+    },
+    {
+      "name": "Eduardo",
+      "phone": "3186934971",
+      "email": "core2@core.com",
+      "company": "UTS",
+      "id": "a1e0"
+    }
+  ]
+}

@@ -2,7 +2,7 @@ import React from 'react'
 import { Button } from 'react-native-paper'
 import { BarProps } from '../types'
 
-export default function Bar({ navigation, route }: BarProps) {
+export default function Bar({ navigation }: BarProps) {
 
     const handlePress = () => {
         navigation.navigate('NewClient')
